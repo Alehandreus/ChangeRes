@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/jpg/trayicon.jpg</file>
+        <file>resolutions.json</file>
+    </qresource>
+</RCC>
